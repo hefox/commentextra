@@ -1,0 +1,5 @@
+name = Comment extra
+description = Some extra views functionality for comments 
+core = 6.x
+dependencies[] = comment
+dependencies[] = views
